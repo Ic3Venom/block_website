@@ -1,0 +1,3 @@
+#Write the desired start and end HOUR as an integer, expressed in 24 hour time
+Time Start: 8
+Time End: 16
